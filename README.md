@@ -1,1 +1,0 @@
-# bigdata-primer-parcial
